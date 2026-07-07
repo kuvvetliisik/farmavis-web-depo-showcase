@@ -32,21 +32,24 @@ Farmavis Web Depo, plasiyerler ve yöneticiler (admin) için geliştirilmiş mod
 ### 1. Giriş Ekranı (Login)
 *Kullanıcı dostu, modern ve güvenli giriş paneli.*
 
-`[Buraya giris_ekrani.png görselinizi ekleyin]`
+<img width="750" height="646" alt="image" src="https://github.com/user-attachments/assets/5f51541a-d0bb-4d0d-8467-06582b1c7e02" />
+
 
 ---
 
 ### 2. Sipariş Giriş Ekranı (Create Order)
 *Eczane seçimi sonrasında aktif olan, barem ve MF oranlarını otomatik hesaplayan sepet ekranı.*
 
-`[Buraya siparis_ekrani.png görselinizi ekleyin]`
+<img width="1847" height="963" alt="image" src="https://github.com/user-attachments/assets/5d256204-8ef7-4bad-85c6-c83b3e26007d" />
+
 
 ---
 
 ### 3. Gelişmiş Raporlar ve Özel Tarih Seçici (Reports & Date Range Picker)
 *Yan yana çift takvim ve hızlı tarih seçim butonlarına sahip, dikey çizgilerden arındırılmış temiz raporlama arayüzü.*
 
-`[Buraya raporlar_ekranı.png görselinizi ekleyin]`
+<img width="1827" height="913" alt="image" src="https://github.com/user-attachments/assets/9ebcc38e-8c04-4687-af74-a9203eba5237" />
+
 
 ---
 
